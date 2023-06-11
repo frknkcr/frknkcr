@@ -28,6 +28,11 @@
   </a>
 </p>
 
+<h3 align="left">API:</h3>
+<p align="left">
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/swagger/swagger-icon.svg" alt="Swagger" width="40" height="40"/>
+  </
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frknkcr&show_icons=true&locale=en" alt="frknkcr" /></p>
