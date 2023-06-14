@@ -58,12 +58,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frknkcr&show_icons=true&locale=en" alt="frknkcr" /></p>
 
- </a>
- 
-  <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=frknkcr&&style=flat-square" align="center" />
-</div> 
-</p>
 
 ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 
@@ -71,5 +65,11 @@
 ![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
 
 
+ </a>
+ 
+  <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=frknkcr&&style=flat-square" align="center" />
+</div> 
+</p>
 
 
