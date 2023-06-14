@@ -56,6 +56,13 @@
 [intellij]: https://www.jetbrains.com/idea/download/#section=windows
 [testng]: https://testng.org/doc/
 
+ </a>
+ 
+  <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=frknkcr&&style=flat-square" align="center" />
+</div> 
+</p>
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frknkcr&show_icons=true&locale=en" alt="frknkcr" /></p>
