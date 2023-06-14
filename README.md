@@ -43,13 +43,12 @@
 [<img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>
 <a href="https://postman.com" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-[<img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][postgresql]
+
 [<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/github/github.png">][github]
 
 [vscode]: https://code.visualstudio.com/
 [java]: https://www.java.com/
 [selenium]: https://www.selenium.dev/
-[postgresql]: https://www.postgresql.org/
 [sql]: https://www.w3schools.com/sql/
 [html]: https://www.w3schools.com/html/
 [github]: https://github.com/berkansonmezay
@@ -57,9 +56,6 @@
 [intellij]: https://www.jetbrains.com/idea/download/#section=windows
 [testng]: https://testng.org/doc/
 
-
-
-https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frknkcr&show_icons=true&locale=en" alt="frknkcr" /></p>
