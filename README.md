@@ -56,6 +56,8 @@
 [intellij]: https://www.jetbrains.com/idea/download/#section=windows
 [testng]: https://testng.org/doc/
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frknkcr&show_icons=true&locale=en" alt="frknkcr" /></p>
+
  </a>
  
   <div align="center">
@@ -65,4 +67,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frknkcr&show_icons=true&locale=en" alt="frknkcr" /></p>
+
